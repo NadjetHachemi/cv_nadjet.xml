@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+  <informationsPersonnelles>
+    <nom>Hachemi</nom>
+    <prenom>Nadjet</prenom>
+    <adresse>Île-de-France</adresse>
+    <telephone>0618192716</telephone>
+    <email>hacheminadjet@icloud.com</email>
+  </informationsPersonnelles>
+
+  <experience>
+    <emploi>
+      <entreprise>Malakoff Humanis</entreprise>
+      <lieu>Île-de-France</lieu>
+      <dateDebut>Mai 2024</dateDebut>
+      <dateFin>Aout 2024</dateFin>
+      <intituleProjet>Analyse exploratoire des données pour comprendre les tendances, les corrélations et les structures sous-jacentes</intituleProjet>
+      <responsabilites>
+        <responsabilite>Identifier et collecter les données pertinentes.</responsabilite>
+        <responsabilite>Analyse et préparation des données.</responsabilite>
+        <responsabilite>Optimisation des performances du modèle par adaptation des prompts.</responsabilite>
+        <responsabilite>Utilisation des outils statistiques et de visualisation pour présenter les résultats de manière claire et compréhensible.</responsabilite>
+      </responsabilites>
+    </emploi>
+  </experience>
+
+  <formation>
+    <diplome>
+      <intitule>Master 1 en Traitement informatique et linguistique des documents écrits</intitule>
+      <etablissement>Sorbonne Paris Nord</etablissement>
+      <annee>2022 - 2024</annee>
+    </diplome>
+    <diplome>
+      <intitule>Master 2 en Traitement informatique et linguistique des documents écrits</intitule>
+      <etablissement>Sorbonne Paris Nord</etablissement>
+      <annee>2022 - 2024</annee>
+    </diplome>
+  </formation>
+
+  <langues>
+    <langue>
+      <nom>Français</nom>
+    </langue>
+    <langue>
+      <nom>Arabe</nom>
+    </langue>
+    <langue>
+      <nom>Anglais</nom>
+    </langue>
+    <langue>
+      <nom>Kabyle</nom>
+    </langue>
+  </langues>
+
+  <loisirs>
+    <loisir>Lecture</loisir>
+    <loisir>Bénévolat</loisir>
+    <loisir>Sport</loisir>
+  </loisirs>
+</cv>
